@@ -3,7 +3,7 @@ Here is code verifying the computations and theorems of the manuscript ``Composi
 
 In order to utilize this code, one needs to do the following first:
 	
-0. Download the zip file entanglements.zip and the magma file routines.m
+0. Download the zip file RZBData.zip and the magma file routines.m
 
 1. Upload the zip and .m files in server where Magma is installed (This code is compatible with Magma V2.20-7).
 
