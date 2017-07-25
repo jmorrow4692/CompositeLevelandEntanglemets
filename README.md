@@ -1,5 +1,5 @@
 # CompositeLevelandEntanglemets
-Here is code verifying the computations and theorems of the manuscript ``Composite level images of Galois and Entanglement fields" by Jackson S. Morrow
+Here is code verifying the computations and theorems of the manuscript ``Composite level images of Galois for elliptic curves over Q and Entanglement fields" by Jackson S. Morrow
 
 In order to utilize this code, one needs to do the following first:
 	
